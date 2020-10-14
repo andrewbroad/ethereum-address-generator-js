@@ -9,7 +9,7 @@ To get started clone the project and
 
 ```
 $ npm install
-$ npm run watch         # this will watch for updates in main.js and update bundle.js
+$ npm run watch &       # this will watch for updates in main.js and update bundle.js
 $ npm run reload        # this will serve the app @ localhost:8081 and refresh the page when there are updates 
 ```
 If you run into any problems while implementing this demo application, try opening the developer tools in the browser (Ctrl + Shift + I or F12) and checking the 'Console' tab.
